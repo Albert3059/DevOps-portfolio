@@ -1,5 +1,4 @@
 # DevOps-portfolio
-DevOps Certificate Practice
 
 # About Me
 
@@ -9,6 +8,8 @@ I am certified in Azure Fundamentals, Azure Database Associate, and Azure DevOps
 ## Education:
 - Bsc Infomatics UNISA
 - Diploma Information Technology Alpvest Institute for FutureTech college
+## My Certifications
+- [Designing and Implementing DevOps Certification](Azure-DevOps-Certificate.md)
 
 ## Work Experience:
 - **Application Support (Deployment & Releases)** at Assupol Life
