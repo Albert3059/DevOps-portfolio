@@ -14,7 +14,7 @@ I am certified in Azure Fundamentals, Azure Database Associate, and Azure DevOps
 ## Work Experience:
 - **Application Support (Deployment & Releases)** at Assupol Life
   
-  Description of Responsibilities
+  **Description of Responsibilities
 
   • Application support,
   
@@ -30,7 +30,7 @@ I am certified in Azure Fundamentals, Azure Database Associate, and Azure DevOps
 
 - **Systems Administrator** at SNG Grant Thornton, 8 years
   
-  Description of Responsibilities
+  **Description of Responsibilities
   
   • Install, Configure, and Support Microsoft Windows Server 2012 and later,
   
