@@ -1,4 +1,4 @@
-# For Patric Alberth Mkwanazi
+# Patric Alberth Mkwanazi
 
 # About Me
 
