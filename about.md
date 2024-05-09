@@ -1,3 +1,5 @@
+# Patric Alberth Mkwanazi DevOps-portfolio
+
 # About Me
 
 Greetings! I'm Patric Alberth Mkwanazi, an enthusiastic DevOps engineer with approximately years of experience in the IT sector. My venture into DevOps commenced back in 2023 when I initiated my career as an Application Support Analyst, specializing in deployment and release management.
@@ -6,10 +8,13 @@ I am certified in Azure Fundamentals, Azure Database Associate, and Azure DevOps
 ## Education:
 - Bsc Infomatics UNISA
 - Diploma Information Technology Alpvest Institute for FutureTech college
+## My Certifications
+- [Designing and Implementing DevOps Certification](Azure-DevOps-Certificate.md)
 
 ## Work Experience:
 - **Application Support (Deployment & Releases)** at Assupol Life
-[Description of responsibilities]
+  
+Description of Responsibilities
 • Application support,
 • Application deployment to Non-Production and Production environments,
 • Maintain software components & ensure reliable deployment of new features,
@@ -18,7 +23,8 @@ I am certified in Azure Fundamentals, Azure Database Associate, and Azure DevOps
 • Run production scripts to correct system errors.
 
 - **Systems Administrator** at SNG Grant Thornton, 8 years
-  [Description of responsibilities]
+  
+  Description of Responsibilities
 • Install, Configure, and Support Microsoft Windows Server 2012 and later,
 • Administer Office 365 users and Mailbox,
 • Perform monthly patch management to all servers and workstations,
